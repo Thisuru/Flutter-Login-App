@@ -1,6 +1,9 @@
 # flutter_login_app
 
-A new Flutter application.
+A new Flutter Login application.
+
+![](assets/IntroPic.png)  
+
 
 ## Getting Started
 
